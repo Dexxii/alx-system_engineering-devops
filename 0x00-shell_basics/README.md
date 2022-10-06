@@ -1,1 +1,1 @@
- a script that creates a directory named
+a script that creates a directory

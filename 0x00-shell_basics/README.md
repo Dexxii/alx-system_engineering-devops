@@ -1,1 +1,1 @@
-Betty in my first director
+Bye bye Betty

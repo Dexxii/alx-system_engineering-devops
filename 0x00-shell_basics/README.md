@@ -1,1 +1,1 @@
-a script that creates a directory
+Betty in my first director
